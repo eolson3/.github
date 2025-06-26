@@ -38,7 +38,7 @@ OSF is powered by several open-source repositories maintained here on GitHub. Th
 - [`waterbutler`](https://github.com/CenterForOpenScience/waterbutler) – Unified file storage and transfer API
 - [`gravy-valet`](https://github.com/CenterForOpenScience/gravyvalet) – Add-on integrations and service coordination
 
-👉 [Learn how these tools work together](https://github.com/CenterForOpenScience/community/blob/main/OSFCommunityGovernance)
+👉 [Learn how these tools work together](https://github.com/CenterForOpenScience/community/blob/main/OSFCommunityGovernance.md)
 
 
 ## 🤝 How to Contribute
@@ -79,7 +79,7 @@ Thanks for your interest and excitement — we’re just getting started!
   Curious about what’s next for OSF? Check out the [COS Product Roadmap](https://www.cos.io/product-roadmap).
 
 - **Understanding GitHub Labels:**  
-  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](https://github.com/CenterForOpenScience/community/blob/main/TagsForOpenSouceProjectManagement).
+  Tasks are labeled by type, priority, and skill level. Learn what each tag means in our [Tag Guide](https://github.com/CenterForOpenScience/community/blob/main/TagsForOpenSouceProjectManagement.md).
 
 All skill levels and backgrounds are welcome—whether you're a developer, researcher, librarian, or just open science curious.
 ---
